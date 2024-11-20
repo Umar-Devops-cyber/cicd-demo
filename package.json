@@ -1,0 +1,15 @@
+{
+  "name": "ci-cd-demo-app",
+  "version": "1.0.0",
+  "description": "Demo Node.js app for CI/CD lab",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umar",
+  "license": "ISC"
+}
